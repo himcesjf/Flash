@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/DeviceList.qml</file>
+        <file>qml/FirmwareInfo.qml</file>
+        <file>qml/LogView.qml</file>
+        <file>qml/UpdatePanel.qml</file>
+        <file>images/logo.png</file>
+    </qresource>
+</RCC> 
